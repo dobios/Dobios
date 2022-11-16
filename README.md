@@ -6,8 +6,14 @@
 - ✨ You can find the external repositories to which I am a major/main contributor pinned in my profile ;).  
   
 ********************************  
-### Some fun trophies  
-[![trophy](https://github-profile-trophy.vercel.app/?username=dobios&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+### Some fun stats  
+[![trophy](https://github-profile-trophy.vercel.app/?username=dobios&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)  
+---
+
+<div>
+  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=dobios&count_private=true&include_all_commits=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dobios&layout=compact" />
+</div>
 
 <!---
 Dobios/Dobios is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
