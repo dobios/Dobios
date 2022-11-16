@@ -11,8 +11,11 @@
   
 #### For Hardware  
 - I mostly work with *Chisel*, and *VHDL*.  
-- I also have some experience with *SystemVerilog*, and *Verilog*, as well as *HLS*.
-  
+- I also have some experience with *SystemVerilog*, and *Verilog*, as well as *HLS*.  
+    
+#### For Video-Games  
+- My favorite engine is *Godot*.  
+- I have also worked with *Unity*, *Phaser*, and bare-bones OpenGL.  
 ********************************  
 ### Some fun stats  
 [![trophy](https://github-profile-trophy.vercel.app/?username=dobios&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)  
