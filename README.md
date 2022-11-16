@@ -4,6 +4,14 @@
 - 💞️ I’m looking to collaborate on any free and open-source video game project :).
 - 📫 You can reach me via email (andrew.dobis@alumni.epfl.ch) or on linked-in.  
 - ✨ You can find the external repositories to which I am a major/main contributor pinned in my profile ;).  
+**********************************
+#### For Software  
+- The main languages I work in are *Scala*, *C#*, *C++*, *C*, *Python*. 
+- I am also capable of getting things done in *JS*, *Kotlin*, *Rust*.  
+  
+#### For Hardware  
+- I mostly work with *Chisel*, and *VHDL*.  
+- I also have some experience with *SystemVerilog*, and *Verilog*, as well as *HLS*.
   
 ********************************  
 ### Some fun stats  
