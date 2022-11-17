@@ -6,7 +6,7 @@
 - ✨ You can find the external repositories to which I am a major/main contributor pinned in my profile ;).  
 **********************************
 #### For Software  
-- The main languages I work in are *Scala*, *C#*, *C++*, *C*, *Python*. 
+- The main languages I work in are *Scala*, *C#*, *C++*, *C*, *Python*, (and *Java* but please don't ask me to do anything in that). 
 - I am also capable of getting things done in *JS*, *Kotlin*, *Rust*.  
   
 #### For Hardware  
