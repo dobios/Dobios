@@ -8,6 +8,7 @@
 #### For Software  
 - The main languages I work in are *Scala*, *C#*, *C++*, *C*, *Python*, (and *Java* but please don't ask me to do anything in that). 
 - I am also capable of getting things done in *JS*, *Kotlin*, *Rust*.  
+- For Parallel High Performance stuff, I can work with *CUDA*, *OpenMP*, *TBB*, *AVX vector intrinsics*, and *MPI*. 
   
 #### For Hardware  
 - I mostly work with *Chisel*, and *VHDL*.  
