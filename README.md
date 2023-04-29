@@ -22,16 +22,28 @@
 ## Current Projects I'm Working on  
 Here is a list of the different projects that I'm currently actively working on.  
 
-#### ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) [[ Automated Testing ]] Expanding the reach of Grammar-based Exhaustive Testing  
+#### Expanding the reach of Grammar-based Exhaustive Testing  
+  - Field: __Automated Testing__  
+  - Language: ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
+  - Description: 
 In this project, we are attempting to verify JSON validators using a form of mutation-assisted differential testing. This is based off of a randomized AST generator, which, given an ANTLR grammar, will generate a random valid AST of a certain depth. We then use these random inputs and compare the validator results obtained from python's json tool and jsonlint. We then reduce the inputs using `creduce` and check the validation results against the original ones.  
   
-#### ![Scala](https://img.shields.io/badge/scala-%2300599C.svg?style=for-the-badge&logo=scala&logoColor=red) ![Rust](https://img.shields.io/badge/rust-%2300599C.svg?style=for-the-badge&logo=rust&logoColor=red) [[ Compilers ]] Implementing L3, a Lisp-like-language  
+#### Implementing L3, a Lisp-like-language  
+  - Field: __Compilers__  
+  - Language: ![Scala](https://img.shields.io/badge/scala-%2300599C.svg?style=for-the-badge&logo=scala&logoColor=red) ![Rust](https://img.shields.io/badge/rust-%2300599C.svg?style=for-the-badge&logo=rust&logoColor=red)  
+  - Description: 
 In this project, we implement a modern compiler, in Scala, for the L3 language, as well as a runtime in the form of a Virtual Machine being written in Rust.  
   
-#### ![C#](https://img.shields.io/badge/c%23-%2300599C.svg?style=for-the-badge&logo=c-sharp&logoColor=white) [[ Video Games ]] Hammered  
+#### Hammered  
+  - Field: __Video Games__  
+  - Language: ![C#](https://img.shields.io/badge/c%23-%2300599C.svg?style=for-the-badge&logo=c-sharp&logoColor=white)  
+  - Description: 
 Hammered is a 3D puzzle-adventure game based around the usage of a magic flying hammer to solve obstacle-based puzzles. This is currently being implemented using the MonoGame framework in C#.  
   
-#### ![Scala](https://img.shields.io/badge/scala-%2300599C.svg?style=for-the-badge&logo=scala&logoColor=red) [[ Hardware Verification ]] Chiselverify  
+#### Chiselverify  
+  - Field: __Hardware Verification__  
+  - Language: ![Scala](https://img.shields.io/badge/scala-%2300599C.svg?style=for-the-badge&logo=scala&logoColor=red)  
+  - Description: 
 A dynamic verification framework for Chisel. We are currently working on improving the verification tools for approximate designs.  
 
 
