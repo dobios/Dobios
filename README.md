@@ -17,15 +17,24 @@
 #### For Video-Games  
 - My favorite engine is *Godot*.  
 - I have also worked with *Unity*, *Phaser*, and bare-bones OpenGL.  
-********************************  
-### Some fun stats  
-[![trophy](https://github-profile-trophy.vercel.app/?username=dobios&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)  
----
 
-<div>
-  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=dobios&count_private=true&include_all_commits=true&theme=onedark" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dobios&layout=compact&theme=onedark" />
-</div>
+**************************************  
+## Current Projects I'm Working on  
+Here is a list of the different projects that I'm currently actively working on.  
+
+#### [Automated Testing] Expanding the reach of Grammar-based Exhaustive Testing  
+In this project, we are attempting to verify JSON validators using a form of mutation-assisted differential testing. This is based off of a randomized AST generator, which, given an ANTLR grammar, will generate a random valid AST of a certain depth. We then use these random inputs and compare the validator results obtained from python's json tool and jsonlint. We then reduce the inputs using `creduce` and check the validation results against the original ones.  
+  
+#### [Compilers] Implementing L3, a Lisp-like-language  
+In this project, we implement a modern compiler, in Scala, for the L3 language, as well as a runtime in the form of a Virtual Machine being written in Rust.  
+  
+#### [Video Games] Hammered  
+Hammered is a 3D puzzle-adventure game based around the usage of a magic flying hammer to solve obstacle-based puzzles. This is currently being implemented using the MonoGame framework in C#.  
+  
+#### [Hardware Verification] Chiselverify  
+A dynamic verification framework for Chisel. We are currently working on improving the verification tools for approximate designs.  
+
+
 
 <!---
 Dobios/Dobios is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
