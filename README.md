@@ -2,7 +2,7 @@
 - 👀 I’m interested in contemporary compiler designs as well as formal verification systems, really anything related to automated testing for both hardware and software, and also video-game developement.  
 - 🌱 I’m currently learning about modern hardware compiler infrastructure (more specifically [CIRCT](https://github.com/llvm/circt)).
 - 💞️ I’m happy to collaborate on any free and open-source video game project :).
-- 📫 You can reach me via email (andrew.dobis@alumni.epfl.ch) or on linked-in.  
+- 📫 You can reach me via email (adobis@inf.ethz.ch) or on linked-in.  
 - ✨ You can find the external repositories to which I am a major/main contributor pinned in my profile ;).  
 **********************************
 #### For Software  
