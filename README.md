@@ -27,12 +27,6 @@ Here is a list of the different projects that I'm currently actively working on.
   - Language: __C#__
   - Description: Game about managing the impacts of political policies and energy managment choices on the swiss energy grid and society.
 
-#### Chiselverify  
-  - Field: __Hardware Verification__  
-  - Language: ![Scala](https://img.shields.io/badge/scala-%2300599C.svg?style=for-the-badge&logo=scala&logoColor=red)  
-  - Description: 
-A dynamic verification framework for Chisel. We are currently working on improving the verification tools for approximate designs.  
-
 
 
 <!---
