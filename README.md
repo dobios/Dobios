@@ -16,11 +16,16 @@
     
 #### For Video-Games  
 - My favorite engine is *Godot*.  
-- I have also worked with *Unity*, *Phaser*, and bare-bones OpenGL.  
+- I have also worked with *MonoGame*, *Unity*, *Phaser*, and bare-bones OpenGL.  
 
 **************************************  
 ## Current Projects I'm Working on  
 Here is a list of the different projects that I'm currently actively working on.  
+
+#### Formal Verification of Hardware in the CIRCT Compiler 
+  - Field: __Hardware Verification / Hardware Compilers__
+  - Language: __C++ / LLVM__
+  - Description: Augmenting the CIRCT compiler framework to enable the use of formal verification constructs in higher level hardware construction languages.
 
 #### SURE Sustainable Development Energy Tycoon  
   - Field: __Video Games__
