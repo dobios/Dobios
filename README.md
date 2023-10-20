@@ -24,7 +24,7 @@ Here is a list of the different projects that I'm currently actively working on.
 
 #### Formal Verification of Hardware in the CIRCT Compiler 
   - Field: __Hardware Verification / Hardware Compilers__
-  - Language: __C++ / LLVM__
+  - Language: __C++ / MLIR / LLVM / FIRRTL / BTOR2 / SMTLib / SystemVerilog__
   - Description: Augmenting the CIRCT compiler framework to enable the use of formal verification constructs in higher level hardware construction languages.
 
 #### SURE Sustainable Development Energy Tycoon  
