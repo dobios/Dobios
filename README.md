@@ -1,22 +1,19 @@
-- 👋 Hi, I’m @Dobios
-- 👀 I’m interested in contemporary compiler designs as well as formal verification systems, really anything related to automated testing for both hardware and software, and also video-game developement.  
-- 🌱 I’m currently learning about modern hardware compiler infrastructure (more specifically [CIRCT](https://github.com/llvm/circt)).
-- 💞️ I’m happy to collaborate on any free and open-source video game project :).
-- 📫 You can reach me via email (adobis@inf.ethz.ch) or on linked-in.  
-- ✨ You can find the external repositories to which I am a major/main contributor pinned in my profile ;).  
+- 👋 Hi, I’m a computer nerd from Switzerland who likes thinking about languages and how we can make them better.  
+- 👀 I like thinking about how and why people reason about things, and what mistakes can be avoided if we reasoned about these things differently. Basically I like designing tools that make it easier to describe complex things correctly and reliably.
+- 📫 You can reach me via email (adobis@ethz.ch) or on linked-in.  
+- ✨ You can find my favorite stuff pinned on my profile ;).  
 **********************************
 #### For Software  
-- The main languages I work in are *Scala*, *C#*, *C++*, *C*, *Python*, (and *Java* but please don't ask me to do anything in that). 
-- I am also capable of getting things done in *JS*, *Kotlin*, *Rust*.  
-- For Parallel High Performance stuff, I can work with *CUDA*, *OpenMP*, *AVX vector intrinsics*, and *MPI*. 
+- Most of my work is usually working a compiler, building some automated testing thingy, or making a video-game.   
+- I will sometimes dable in something completely unrelated, so always keep your eyes open for that ;).  
   
 #### For Hardware  
-- I mostly work with *Chisel*, and *VHDL*.  
-- I also have some experience with *SystemVerilog*, and *Verilog*, as well as *HLS*.  
+- I like reasoning about hardware, not so much developing it.
+- Most of my work here will be on the languages people use to express designs and not the designs themselves.
+- I've been doing a lot of work on the verification parts of [CIRCT](https://github.com/llvm/circt)) lately.  
     
 #### For Video-Games  
-- My favorite engine is *Godot*.  
-- I have also worked with *MonoGame*, *Unity*, *Phaser*, and bare-bones OpenGL.  
+- **Godot** is great, lightweight, easy to use and FOSS.  
 
 **************************************  
 ## Current Projects I'm Working on  
