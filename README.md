@@ -1,6 +1,6 @@
 - 👋 Hi, I’m a computer nerd from Switzerland who likes thinking about languages and how we can make them better.  
 - 👀 I like thinking about how and why people reason about things a certain way, and what mistakes can be avoided if we reasoned about these things differently. Basically I like designing tools that make it easier to describe complex things correctly and reliably.
-- 📫 You can reach me via email (adobis@ethz.ch) or on linked-in.  
+- 📫 You can reach me via email (adobis@ethz.ch) or on mastodon.  
 - ✨ You can find my favorite stuff pinned on my profile ;).  
 **********************************
 #### For Software  
