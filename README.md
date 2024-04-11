@@ -1,10 +1,10 @@
 - 👋 Hi, I’m a computer nerd from Switzerland who likes thinking about languages and how we can make them better.  
-- 👀 I like thinking about how and why people reason about things a certain way, and what mistakes can be avoided if we reasoned about these things differently. Basically I like designing tools that make it easier to describe complex things correctly and reliably.
+- 👀 I like designing tools that make it easier to describe complex things correctly and reliably. When I get imposter syndrome, I try building some automated testing thingies to convince myself that the stuff I build works. 
 - 📫 You can reach me via email (adobis@ethz.ch) or on mastodon.  
 - ✨ You can find my favorite stuff pinned on my profile ;).  
 **********************************
 #### For Software  
-- Most of my work is usually working a compiler, building some automated testing thingy, or making a video-game.   
+- Most of my work is usually working on a compiler or building some automated testing thingy. I do occasionally still dable in video-game dev, but I feel like that arc has reached its end. 
 - I will sometimes dable in something completely unrelated, so always keep your eyes open for that ;).  
   
 #### For Hardware  
@@ -23,12 +23,6 @@ Here is a list of the different projects that I'm currently actively working on.
   - Field: __Hardware Verification / Hardware Compilers__
   - Language: __C++ / MLIR / LLVM / FIRRTL / BTOR2 / SMTLib / SystemVerilog__
   - Description: Augmenting the CIRCT compiler framework to enable the use of formal verification constructs in higher level hardware construction languages.
-
-#### SURE Sustainable Development Energy Tycoon  
-  - Field: __Video Games__
-  - Language: __C#__
-  - Description: Game about managing the impacts of political policies and energy managment choices on the swiss energy grid and society.
-
 
 
 <!---
