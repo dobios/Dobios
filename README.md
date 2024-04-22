@@ -10,7 +10,7 @@
 #### For Hardware  
 - I like reasoning about hardware, not so much developing it.
 - Most of my work here will be on the languages people use to express designs and not the designs themselves.
-- I've been doing a lot of work on the verification parts of [CIRCT](https://github.com/llvm/circt)) lately.  
+- I've been doing a lot of work on the verification parts of [CIRCT](https://github.com/llvm/circt) lately.  
     
 #### For Video-Games  
 - **Godot** is great, lightweight, easy to use and FOSS.  
@@ -19,10 +19,10 @@
 ## Current Projects I'm Working on  
 Here is a list of the different projects that I'm currently actively working on.  
 
-#### Formal Verification of Hardware in the CIRCT Compiler 
+#### Various CIRCT, Chisel, and FIRRTL verification stuff 
   - Field: __Hardware Verification / Hardware Compilers__
-  - Language: __C++ / MLIR / LLVM / FIRRTL / BTOR2 / SMTLib / SystemVerilog__
-  - Description: Augmenting the CIRCT compiler framework to enable the use of formal verification constructs in higher level hardware construction languages.
+  - Language: __C++ / MLIR / LLVM / FIRRTL / Scala / BTOR2 / SMTLib / SystemVerilog__
+  - Description: Extending and unifying the verfication features of CIRCT.
 
 
 <!---
