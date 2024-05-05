@@ -10,7 +10,7 @@
 #### For Hardware  
 - I like reasoning about hardware, not so much developing it.
 - Most of my work here will be on the languages people use to express designs and not the designs themselves.
-- I've been doing a lot of work on the verification parts of [CIRCT](https://github.com/llvm/circt) lately.  
+- I've been doing a lot of work on the verification parts of [CIRCT](https://github.com/llvm/circt) and [Chisel](https://github.com/chipsalliance/chisel) lately.  
     
 #### For Video-Games  
 - **Godot** is great, lightweight, easy to use and FOSS.  
