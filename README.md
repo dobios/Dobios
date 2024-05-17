@@ -1,7 +1,7 @@
 - 👋 Hi, I’m a computer nerd from Switzerland who likes thinking about languages and how we can make them better.  
 - 👀 I like designing tools that make it easier to describe complex things correctly and reliably. When I get imposter syndrome, I try building some automated testing thingies to convince myself that the stuff I build works. 
 - 📫 You can reach me via email (amelia.dobis@alumni.ethz.ch) or on mastodon.  
-- ✨ You can find my favorite stuff pinned on my profile ;), as well as on [personal my website (WIP)](dobios.github.io).  
+- ✨ You can find my favorite stuff pinned on my profile ;), as well as on [personal my website (WIP)](https://dobios.github.io).  
 **********************************
 #### For Software  
 - Most of my work is usually working on a compiler or building some automated testing thingy. I do occasionally still dable in video-game dev, but I feel like that arc has reached its end. 
