@@ -8,8 +8,8 @@
 - I will sometimes dable in something completely unrelated, so always keep your eyes open for that ;).  
   
 #### For Hardware  
-- I like reasoning about hardware, not so much developing it.
-- Most of my work here will be on the languages people use to express designs and not the designs themselves.
+- I like reasoning about hardware, but I am an awful hardware engineer ^^".
+- Most of my work here will be on the languages people use to implement and **verify** their designs. 
 - I've been doing a lot of work on the verification parts of [CIRCT](https://github.com/llvm/circt) and [Chisel](https://github.com/chipsalliance/chisel) lately.  
     
 #### For Video-Games  
