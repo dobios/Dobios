@@ -12,7 +12,7 @@
 - I like reasoning about hardware, but I am an awful hardware engineer ^^".
 - Most of my work here will be on the languages people use to implement and **verify** their designs. 
 - I'm a frequent contributor to [CIRCT](https://github.com/llvm/circt) and sometimes [Chisel](https://github.com/chipsalliance/chisel).
-- I'm currently looking various verification problems, like solver parallelization or datapath validation. 
+- I'm currently looking into various verification problems, like solver parallelization or datapath validation. 
     
 #### For Video-Games  
 - **Godot** is great, lightweight, easy to use and FOSS.  
