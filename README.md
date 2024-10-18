@@ -4,7 +4,7 @@
 - ✨ You can find my favorite stuff pinned on my profile ;), as well as on [personal my website (WIP)](https://dobios.github.io).  
 **********************************
 #### For Software  
-- Most of my work is usually working on a compiler or building some automated testing thingy.
+- Most of my work is usually on a compiler or a compiler-like verification tool.
 - I like using MLIR for the compiler-esque things I do.  
 - I will sometimes dable in something completely unrelated, so always keep your eyes open for that ;).  
   
