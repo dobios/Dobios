@@ -17,16 +17,6 @@
 #### For Video-Games  
 - **Godot** is great, lightweight, easy to use and FOSS.  
 
-**************************************  
-## Current Projects I'm Working on  
-Here is a list of the different projects that I'm currently actively working on.  
-
-#### Various CIRCT, Chisel, and FIRRTL verification stuff 
-  - Field: __Hardware Verification / Hardware Compilers__
-  - Language: __C++ / MLIR / LLVM / FIRRTL / Scala / BTOR2 / SMTLib / SystemVerilog__
-  - Description: Extending and unifying the verfication features of CIRCT.
-
-
 <!---
 Dobios/Dobios is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
