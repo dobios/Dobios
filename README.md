@@ -1,6 +1,6 @@
 - 👋 Hi, I’m a computer nerd from Switzerland who likes thinking about languages and how we can make them better.  
 - 👀 I like designing tools that make it easier to describe complex things correctly and reliably.  
-- 📫 You can reach me via email (amelia.dobis@princeton.edu) or on mastodon.  
+- 📫 You can reach me via email (amelia.dobis@princeton.edu).  
 - ✨ You can find my favorite stuff pinned on my profile ;), as well as on [personal my website](https://cs.princeton.edu/~ad4048).  
 **********************************
 #### For Software  
