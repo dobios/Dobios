@@ -1,8 +1,10 @@
-- 👋 Hi, I’m a computer nerd from Switzerland who likes thinking about languages and how we can make them better.  
-- 👀 I like designing tools that make it easier to describe complex things correctly and reliably.  
+- 👋 Hi, I’m a computer nerd from Switzerland.  
+- 👀 I like designing tools that make it easier to describe complex things correctly and reliably.
 - 📫 You can reach me via email (amelia.dobis@princeton.edu).  
 - ✨ You can find my favorite stuff pinned on my profile ;), as well as on [personal my website](https://cs.princeton.edu/~ad4048).  
 **********************************
+**Overview:** I'm currently working on improving the performance and capabilities of hardware model checkers through the use of new language-level abastractions or new proof methodology.
+
 #### For Software  
 - Most of my work is usually on a compiler or a compiler-like verification tool.
 - I like using MLIR for the compiler-esque things I do.  
