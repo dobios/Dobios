@@ -2,7 +2,7 @@
 - 📫 You can reach me via email (amelia.dobis@princeton.edu).  
 - ✨ You can find my favorite stuff pinned on my profile, as well as on [personal my website](https://cs.princeton.edu/~ad4048).  
 **********************************
-**Overview:** I'm currently working on a formalized foundation for hardware compilation, as well as utilize stronger type-systems in hardware languages.
+**Overview:** I'm currently working on various hardware-verification related things.
 
 #### For Software  
 - Most of my work is usually on a compiler or a compiler-like verification tool, for which I typically use MLIR.  
