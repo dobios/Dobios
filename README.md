@@ -11,7 +11,7 @@
   
 #### For Hardware  
 - I like reasoning about hardware, and have recently gotten back into actually building hardware using [*Spade*](https://spade-lang.org/).
-- Most of my work here is on trying to unify the hardware ecosystem, by allowing languages to interoperate and share tooling and hopefully some day type-systems. 
+- Most of my work here is on trying to unify the hardware ecosystem, by allowing languages to interoperate by sharing tooling and hopefully also, some day, by sharing type-systems. 
 - I try to use [CIRCT](https://github.com/llvm/circt) for a lot of what I do, either in the main repo, or on my fork when it's a bit more niche.
     
 #### For Video-Games  
