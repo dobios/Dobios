@@ -3,7 +3,7 @@
 - ✨ You can find my favorite stuff pinned on my profile, as well as on [personal my website](https://cs.princeton.edu/~ad4048).
 - I am trying to move my personal projects to [codeberg](https://codeberg.org/miado), as it's EU-based and not forcing LLMs down everyone's throat like *some platforms*, so please join me there :)
 **********************************
-**Overview:** My current focus is shifting towards hardware language interop.
+**Overview:** My current focus is shifting towards hardware language and tooling interoperation.
 
 #### For Software  
 - Most of my work is usually on a compiler or a compiler-like verification tool, for which I typically use MLIR.  
